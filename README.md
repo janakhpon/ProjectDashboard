@@ -58,6 +58,6 @@ Install Dependencies using [yarn](https://yarnpkg.com/en/)
  Sorry this project is not completely done yet and only a few features are available. If you are considering about cloning this project please wait till it's completed.
 
 ## Description
- If you wanna try it on your own clone the `SERVER-SIDE-REPOSITORY` firs then use your own `MONGO_URI` then run `start` or `dev` whatever u like and if it went without errors clone this `CLIENT-SIDE` repo and start the application. I'm sure there will be a few or more errors as this project is completely done for both `CLIENT` and `SERVER`.
+ If you wanna try it on your own clone the `SERVER-SIDE-REPOSITORY` firs then use your own `MONGO_URI` then run `start` or `dev` whatever u like and if it went without errors clone this `CLIENT-SIDE` repo and start the application. I'm sure there will be a few or more errors as this project is not completely done yet for both `CLIENT` and `SERVER`.
     
 
